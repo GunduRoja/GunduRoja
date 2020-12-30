@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi .I'M GunduRoja 👋
 
 <!--
 **GunduRoja/GunduRoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
