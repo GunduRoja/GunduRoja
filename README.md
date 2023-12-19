@@ -22,7 +22,7 @@ HELLO ✌
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Contribute to Open Source projects
 - 👀 Fun fact: I love invest my time and engergy on me avoiding negativity😎
-- 📫 How to reach me: Email - gunduroja24@gmail.com
+- 📫 How to reach me: Email - gunduroja07@gmail.com
 
 ### Details:
 <details>
