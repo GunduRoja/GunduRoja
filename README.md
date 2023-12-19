@@ -17,7 +17,7 @@ HELLO ✌
 
 ## I'm a Developer
 
-- 🔭 I’m working on web development  and Java projects
+- 🔭 I’m working on web development.
 - 🌱 Currently learning DSA(data structure and algorithms)
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Contribute to Open Source projects
